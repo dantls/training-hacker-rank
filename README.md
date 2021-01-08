@@ -2,7 +2,7 @@
     <a href="https://www.hackerrank.com/dan_tls">
         <img height=120 src="https://github.com/dantls/training-hacker-rank/blob/main/Assets/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
-    <br>5 solutions to HackerRank problems
+    <br>6 solutions to HackerRank problems
 </p>
 
 * [General Programming](#general-programming)
@@ -19,6 +19,14 @@ The solutions were implemented in Javascript
 |     Basic Programming      | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)                                           |   10   | [Solution.javascript](https://github.com/dantls/training-hacker-rank/blob/main/General%20Programming/Ex3-%20Compare%20the%20Triplets/Solution.js)   |
 |     Basic Programming      | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)                                             |   10   | [Solution.javascript](https://github.com/dantls/training-hacker-rank/blob/main/General%20Programming/Ex5-%20Diagonal%20Difference/Solution.js)      |
 |     Basic Programming      | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)                                                       |   10   | [Solution.javascript](https://github.com/dantls/training-hacker-rank/blob/main/General%20Programming/Ex4-%20A%20Very%20Big%20Sum/Solution.js)       |
+
+<br>
+
+# 30-days-of-code
+
+|          Subdomain         |                                                           Challenge                                                          | Points |                                                                                        Solution                                                     |
+|:--------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------:|
+|     Basic Programming      | [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)                                                       |   30   | [Solution.javascript](https://github.com/dantls/training-hacker-rank/blob/main/30%20Days%20of%20Code/Day%201%20-%20Data%20Types/Soluction.js)         |
 
 
 <br>
