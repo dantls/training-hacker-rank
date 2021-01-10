@@ -26,7 +26,8 @@ The solutions were implemented in Javascript
 
 |          Subdomain         |                                                           Challenge                                                          | Points |                                                                                        Solution                                                     |
 |:--------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------:|
-|     Basic Programming      | [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)                                                       |   30   | [Solution.javascript](https://github.com/dantls/training-hacker-rank/blob/main/30%20Days%20of%20Code/Day%201%20-%20Data%20Types/Soluction.js)         |
+|     Basic Programming      | [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)                                                       |   30   | [Solution.javascript](https://github.com/dantls/training-hacker-rank/blob/main/30%20Days%20of%20Code/Day%201%20-%20Data%20Types/Solution.js)         |
+|     Basic Programming      | [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem)                                                       |   30   | [Solution.javascript](https://github.com/dantls/training-hacker-rank/blob/main/30%20Days%20of%20Code/Day%202%20-%20Operators/Solution.js)         |
 
 
 <br>
