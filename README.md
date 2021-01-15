@@ -2,7 +2,7 @@
     <a href="https://www.hackerrank.com/dan_tls">
         <img height=120 src="https://github.com/dantls/training-hacker-rank/blob/main/Assets/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
-    <br>6 solutions to HackerRank problems
+    <br>13 solutions to HackerRank problems
 </p>
 
 * [General Programming](#general-programming)
