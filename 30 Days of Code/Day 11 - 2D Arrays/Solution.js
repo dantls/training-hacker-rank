@@ -4,7 +4,8 @@ function sum(table , line, column){
     for (let j = column; j < column + 3; j++) {
       if(line +1 === i && column +1 === j){
         result += parseInt(table[i][j])
-      }else{
+      }else if(line +1 === i){}      
+      else{
         result += parseInt(table[i][j])
       }
     }
@@ -12,8 +13,9 @@ function sum(table , line, column){
   return result
 }
 
+
 function process_data(table){
-  let max = -9999;
+  let max = -63;
   let result = 0;
   for (let i = 0; i < 4; i++) {
     for (let j = 0; j < 4; j++) {
@@ -21,8 +23,7 @@ function process_data(table){
       if(result > max){
         max = result
       } 
-       
     }
   }
-  console.log(max)
+  return console.log(max)
 }
