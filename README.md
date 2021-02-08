@@ -34,7 +34,13 @@ The solutions were implemented in Javascript
 |     Basic Programming      | [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop/problem)                                                       |   30   | [Solution.javascript](https://github.com/dantls/training-hacker-rank/blob/main/30%20Days%20of%20Code/Day%206%20-%20Let's%20Review/Solution.js)         |
 |     Basic Programming      | [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem)                                                       |   30   | [Solution.javascript](https://github.com/dantls/training-hacker-rank/blob/main/30%20Days%20of%20Code/Day%207%20-%20Arrays/Solution.js)         |
 |     Basic Programming      | [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)                                                       |   30   | [Solution.javascript](https://github.com/dantls/training-hacker-rank/blob/main/30%20Days%20of%20Code/Day%208%20-%20Dictionaries%20and%20Maps/Solution.js)         |
-|     Basic Programming      | [Day 9: Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem)                                                       |   30   | [Solution.javascript](https://github.com/dantls/training-hacker-rank/blob/main/30%20Days%20of%20Code/Day%209%20-%20Recursion%203/Solution.js)         |
+|     Basic Programming      | [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion/problem)                                                       |   30   | [Solution.javascript](https://github.com/dantls/training-hacker-rank/blob/main/30%20Days%20of%20Code/Day%209%20-%20Recursion%203/Solution.js)         |
+|     Basic Programming      | [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)                                                       |   30   | [Solution.javascript](https://github.com/dantls/training-hacker-rank/blob/main/30%20Days%20of%20Code/Day%2010%20-%20Binary%20Numbers/Solution.js)         |
+|     Basic Programming      | [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)                                                       |   30   | [Solution.javascript](https://github.com/dantls/training-hacker-rank/blob/main/30%20Days%20of%20Code/Day%2011%20-%202D%20Arrays/Solution.js)         |
+|     Basic Programming      | [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)                                                       |   30   | [Solution.javascript](https://github.com/dantls/training-hacker-rank/blob/main/30%20Days%20of%20Code/Day%2012%20-%20Inheritance/Solution.js)         |
+
+
+
 
 <br>
 <h4 align="center">
