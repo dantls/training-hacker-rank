@@ -2,7 +2,7 @@
     <a href="https://www.hackerrank.com/dan_tls">
         <img height=120 src="https://github.com/dantls/training-hacker-rank/blob/main/Assets/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
-    <br>13 solutions to HackerRank problems
+    <br>19 solutions to HackerRank problems
 </p>
 
 * [General Programming](#general-programming)
@@ -38,9 +38,9 @@ The solutions were implemented in Javascript
 |     Basic Programming      | [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem)                                                       |   30   | [Solution.javascript](https://github.com/dantls/training-hacker-rank/blob/main/30%20Days%20of%20Code/Day%2010%20-%20Binary%20Numbers/Solution.js)         |
 |     Basic Programming      | [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays/problem)                                                       |   30   | [Solution.javascript](https://github.com/dantls/training-hacker-rank/blob/main/30%20Days%20of%20Code/Day%2011%20-%202D%20Arrays/Solution.js)         |
 |     Basic Programming      | [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem)                                                       |   30   | [Solution.javascript](https://github.com/dantls/training-hacker-rank/blob/main/30%20Days%20of%20Code/Day%2012%20-%20Inheritance/Solution.js)         |
-
-
-
+|     Basic Programming      | [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem)                                                       |   30   | [Solution.javascript](https://github.com/dantls/training-hacker-rank/blob/main/30%20Days%20of%20Code/Day%2013%20-%20Abstract%20Classes/Solution.js)         |
+|     Basic Programming      | [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope/problem)                                                       |   30   | []()         |
+|     Basic Programming      | [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list/problem)                                                       |   30   | [Solution.javascript](https://github.com/dantls/training-hacker-rank/blob/main/30%20Days%20of%20Code/Day%2015%20-%20Linked%20List/Solution.js)         |
 
 <br>
 <h4 align="center">
